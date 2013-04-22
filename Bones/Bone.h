@@ -38,7 +38,7 @@ public:
 	void setPosition(float x,float,float);	//set the position in the space 3D of the bone
 	void setAngle(float angle);				//set the angle of the bone in the space
 	void setLenght(float lenght);			//set the lenght of hte bone
-	void setParent(Bone*);						//
+	void setParent(Bone*);					//
 
 	Status addChild(Bone *child);			//append child at this bone
 	Status addParent(Bone *parent);			//append parent to this child
