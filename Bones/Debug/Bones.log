@@ -1,26 +1,47 @@
-﻿Compilación iniciada a las 21-Apr-13 3:23:24 PM.
-     1>Proyecto "F:\CTI\projects\Bones\Bones\Bones.vcxproj" en el nodo 2 (build destinos).
+﻿Compilación iniciada a las 4/22/2013 8:56:54 AM.
+     1>Proyecto "C:\Users\Efrain Astudillo\Documents\Visual Studio 2010\Projects\GIT\Bones\Bones\Bones.vcxproj" en el nodo 2 (build destinos).
      1>InitializeBuildStatus:
          Se creará "Debug\Bones.unsuccessfulbuild" porque se especificó "AlwaysCreate".
        ClCompile:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Bone.cpp BoneUtility.cpp main.cpp
          main.cpp
-     1>f:\cti\projects\bones\bones\main.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(6): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(6): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(6): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(7): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(7): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
-     1>f:\cti\projects\bones\bones\main.cpp(7): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(4): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(4): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(4): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(5): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(5): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(5): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(6): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(6): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(6): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(7): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(7): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\main.cpp(7): warning C4305: 'argument' : truncation from 'double' to 'float'
+         BoneUtility.cpp
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(21): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(23): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(34): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(44): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(47): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(53): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(55): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\boneutility.cpp(58): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+         Bone.cpp
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(10): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(12): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(14): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(17): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(24): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(27): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(28): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(35): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+     1>c:\users\efrain astudillo\documents\visual studio 2010\projects\git\bones\bones\bone.cpp(39): warning C4482: nonstandard extension used: enum 'Status' used in qualified name
+         Generating Code...
        ManifestResourceCompile:
-         Todas las salidas están actualizadas.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Bones.exe.embed.manifest.res" Debug\Bones_manifest.rc 
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CTI\projects\Bones\Debug\Bones.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bones.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CTI\projects\Bones\Debug\Bones.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CTI\projects\Bones\Debug\Bones.lib" /MACHINE:X86 Debug\Bones.exe.embed.manifest.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Efrain Astudillo\Documents\Visual Studio 2010\Projects\GIT\Bones\Debug\Bones.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bones.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Efrain Astudillo\Documents\Visual Studio 2010\Projects\GIT\Bones\Debug\Bones.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Efrain Astudillo\Documents\Visual Studio 2010\Projects\GIT\Bones\Debug\Bones.lib" /MACHINE:X86 Debug\Bones.exe.embed.manifest.res
          Debug\Bone.obj
          Debug\BoneUtility.obj
          Debug\main.obj
@@ -29,12 +50,12 @@
          Todas las salidas están actualizadas.
        LinkEmbedManifest:
          Todas las salidas están actualizadas.
-         Bones.vcxproj -> F:\CTI\projects\Bones\Debug\Bones.exe
+         Bones.vcxproj -> C:\Users\Efrain Astudillo\Documents\Visual Studio 2010\Projects\GIT\Bones\Debug\Bones.exe
        FinalizeBuildStatus:
          Se eliminará el archivo "Debug\Bones.unsuccessfulbuild".
          Aplicando tarea Touch a "Debug\Bones.lastbuildstate".
-     1>Compilación del proyecto terminada "F:\CTI\projects\Bones\Bones\Bones.vcxproj" (build destinos).
+     1>Compilación del proyecto terminada "C:\Users\Efrain Astudillo\Documents\Visual Studio 2010\Projects\GIT\Bones\Bones\Bones.vcxproj" (build destinos).
 
 Compilación correcta.
 
-Tiempo transcurrido 00:00:02.19
+Tiempo transcurrido 00:00:08.24

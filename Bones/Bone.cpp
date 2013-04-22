@@ -99,6 +99,12 @@ void Bone::setID(int id){
 void Bone::setName(std::string name){
 	Bone::_name=name;
 }
+void Bone::setParent(Bone* p){
+	this->parent=p;
+}
+Bone* Bone::getParent(){
+	return this->parent;
+}
 Bone::Bone(){
 	Bone::_isValid=false;//I use isValid parameter because this constructor will never be used
 	//although it's private
