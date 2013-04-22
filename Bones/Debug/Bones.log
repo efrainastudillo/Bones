@@ -1,0 +1,40 @@
+﻿Compilación iniciada a las 21-Apr-13 3:23:24 PM.
+     1>Proyecto "F:\CTI\projects\Bones\Bones\Bones.vcxproj" en el nodo 2 (build destinos).
+     1>InitializeBuildStatus:
+         Se creará "Debug\Bones.unsuccessfulbuild" porque se especificó "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\cti\projects\bones\bones\main.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(4): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(5): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(6): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(6): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(6): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(7): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(7): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+     1>f:\cti\projects\bones\bones\main.cpp(7): warning C4305: 'argumento' : truncamiento de 'double' a 'float'
+       ManifestResourceCompile:
+         Todas las salidas están actualizadas.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\CTI\projects\Bones\Debug\Bones.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bones.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\CTI\projects\Bones\Debug\Bones.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\CTI\projects\Bones\Debug\Bones.lib" /MACHINE:X86 Debug\Bones.exe.embed.manifest.res
+         Debug\Bone.obj
+         Debug\BoneUtility.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Bones.exe.embed.manifest" /manifest Debug\Bones.exe.intermediate.manifest
+         Todas las salidas están actualizadas.
+       LinkEmbedManifest:
+         Todas las salidas están actualizadas.
+         Bones.vcxproj -> F:\CTI\projects\Bones\Debug\Bones.exe
+       FinalizeBuildStatus:
+         Se eliminará el archivo "Debug\Bones.unsuccessfulbuild".
+         Aplicando tarea Touch a "Debug\Bones.lastbuildstate".
+     1>Compilación del proyecto terminada "F:\CTI\projects\Bones\Bones\Bones.vcxproj" (build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.19
